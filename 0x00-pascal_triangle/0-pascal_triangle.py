@@ -1,14 +1,6 @@
 #!/usr/bin/python3
 """ Module of function pascal_triangle"""
-from math import factorial
 
-"""
-def factorial(n):
-  computes factorial of n
-  if (n == 0):
-    return 1
-  return n * factorial(n - 1)
-"""
 
 def pascal_triangle(n):
   """function returns a list of integers
